@@ -4,5 +4,5 @@ tags={
 	"Gameplay"
 }
 name="BCK - Dynamic Lifestyle XP"
-supported_version="1.18.*"
+supported_version="1.19.*"
 remote_file_id="3180720055"
